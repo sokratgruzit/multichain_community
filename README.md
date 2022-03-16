@@ -148,11 +148,73 @@ Performing the following actions will require that the main content table be upd
 
 To update the content table:
 
-* You would first need to install the dependencies by running the following command:
+* You would first need to install the dependencies by running the following command: :point_down:
 
     ``` yarn ``` :zap:
 
 
-* To rebuild, run the following: :pointer_down:
+* To rebuild, run the following: :point_down:
 
     ``` yarn generate-toc ``` :zap:
+
+## Adding a document
+
+>The below structure should be followed when adding a document file for this repo:
+
+```
+** [<](README.md) &nbsp; ${main_header} ** 
+${table_of_content}
+&nbsp;
+${content}
+[Back to the top](#--${main_header_dashed})
+
+```
+* main_header - The main title for the page. For example, for this page, it's "Developer Documentation Guidelines."
+
+* main_header_dashed - the same as the "main_header," only all lower caps separated by dashed instead of spaces.
+For example, for this page, it's: "developer-documentation-guidelines."
+
+* table_of_content (Optional) - If needed (the page is long), then add a table of contents for this page.
+
+* content - The actual content of the page should only use "native" markdown syntax, without any html tags.
+
+:arrow_up: Back to the top :arrow_up:
+
+Coding Conventions - Javascript Code Conventions
+# JavaScript Code Conventions
+
+* [File Names](#File-Names)
+* [Comments](#Comments)
+* [Exports](#Exports)
+
+## File Names
+* Postfix the names of index files with the name of their parent directory
+
+```
+//incorrect
+src/
+   
+components/
+        
+MyComponent/
+              
+index.js // <--
+              
+MyComponent.js
+              
+styles.js
+//correct
+src/
+  
+components/
+       
+MyComponent/
+             
+indexMyComponent.js // <--
+             
+MyComponent.js
+             
+styles.js
+
+```
+[Back to the top](#Javascript-Code-Conventions)
