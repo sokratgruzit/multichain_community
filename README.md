@@ -49,13 +49,13 @@ Since blockchain technology is in its infancy, there is a lot of room for innova
 
 ### Guidelines:
 
-CORE Multichain lives by the belief that together, members and teams of the blockchain industry can grow in a collective effort to make significant contributions to the blockchain space. We support many teams and organizations within the blockchain community and receive requests to partner and/or sponsor many projects. Unfortunately, with the high volume of requests that we receive, we cannot participate and answer every request.
+:zap:CORE Multichain lives by the belief that together, members and teams of the blockchain industry can grow in a collective effort to make significant contributions to the blockchain space. We support many teams and organizations within the blockchain community and receive requests to partner and/or sponsor many projects. Unfortunately, with the high volume of requests that we receive, we cannot participate and answer every request.:zap:
 
-To nurture and grow our blockchain community, we host annual events such as hackathons and offer a grant program to help exciting blockchain-related project proposals go from idea to reality.
+ :sparkles:To nurture and grow our blockchain community, we host annual events such as hackathons and offer a grant program to help exciting blockchain-related project proposals go from idea to reality. :sparkles:
 
-Teams need to register and submit their project proposals to participate in our hackathon. We only allow project proposals that deal with the blockchain-related aspects listed in our hackathon announcement. Once approved, teams will be notified of the following steps by a member of the CORE Multichain team.
+:boom:Teams need to register and submit their project proposals to participate in our hackathon. We only allow project proposals that deal with the blockchain-related aspects listed in our hackathon announcement. Once approved, teams will be notified of the following steps by a member of the CORE Multichain team.:boom:
 
-As mentioned, teams can also apply for grants. Teams need to send grant proposals to the CORE Multichain team like the hackathon application process. Only projects under the blockchain topics listed in our hackathon announcement will be considered. The grant process is also milestone-based. This ensures that projects who send these requests are serious about the process and about contributing to the blockchain space.
+:anger:As mentioned, teams can also apply for grants. Teams need to send grant proposals to the CORE Multichain team like the hackathon application process. Only projects under the blockchain topics listed in our hackathon announcement will be considered. The grant process is also milestone-based. This ensures that projects who send these requests are serious about the process and about contributing to the blockchain space.:anger:
 
 #### We recommend the following guidelines when writing a proposal for a grant or a project for the hackathon:
 
