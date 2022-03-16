@@ -60,8 +60,7 @@ As mentioned, teams can also apply for grants. Teams need to send grant proposal
 #### We recommend the following guidelines when writing a proposal for a grant or a project for the hackathon:
 
 - List which blockchain-related aspect your hackathon project or grant project will fall under.
-
-> For more information, you can refer to the hackathon announcement to see which blockchain-related aspects are supported by the CORE Multichain team. Your project can fall under more than one of the supported blockchain aspects.
+    For more information, you can refer to the hackathon announcement to see which blockchain-related aspects are supported by the CORE Multichain team. Your project can fall under more than one of the supported blockchain aspects.
 
 - Focus your proposal around what problem in the blockchain space your project addresses.
 
@@ -80,15 +79,15 @@ The Code intends to prohibit activities including but not limited to:
 - Offensive comments towards others
 - Any activity that can be seen as, or regarded as, harassing, demeaning, mocking, or       intimidating others, especially this behavior as it relates to characteristics such as:
 
-* Gender
-* Sexual orientation
-* Physical or mental ability
-* Age
-* Socioeconomic status
-* Ethnicity
-* Physical appearance
-* Race
-* Religion
+    * Gender
+    * Sexual orientation
+    * Physical or mental ability
+    * Age
+    * Socioeconomic status
+    * Ethnicity
+    * Physical appearance
+    * Race
+    * Religion
 
 - Other prohibited behaviors include, but are not limited to:
     * Stalking
