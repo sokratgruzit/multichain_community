@@ -21,3 +21,29 @@ If you are interested in joining the CORE Multichain team or have a project that
 
 </p>
 </details>
+<details><summary>Announcement:</summary>
+
+CORE Multichain is a blockchain movement that aims to solve scalability, interoperability, and throughput problems while increasing user privacy and usability.
+
+We strive to make significant contributions towards Web3 technology by promoting innovation in the blockchain and digital currency space. In our efforts to maximize innovation in the blockchain technology and Web3 space, we are excited to announce that CORE Multichain will be hosting a hackathon! Developers from across the globe will be able to participate in this hackathon to create the next best innovation in blockchain technology.
+
+Since blockchain technology is in its infancy, there is a lot of room for innovation. However, we are looking for developers that can innovate in the following aspects of blockchain and cryptocurrency technology:
+
+*Consensus Protocols
+*Smart Contracts
+*Sharding
+*Scalability
+*Security and Privacy
+*Data Analytics
+*Artificial Intelligence
+*Machine Learning
+*Game Theory
+*Cloud Computing
+*Edge Computing
+*5G and Beyond
+
+
+Developers can either choose one of the aspects or touch on multiple aspects in their solution. 
+
+</details>
+
