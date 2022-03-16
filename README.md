@@ -23,8 +23,8 @@ If you are interested in joining the CORE Multichain team or have a project that
 </details>
 <details><summary>Announcement:</summary>
 <p>
-### CORE Multichain is a blockchain movement that aims to solve scalability, interoperability, 
-and throughput problems while increasing user privacy and usability.
+
+#### CORE Multichain is a blockchain movement that aims to solve scalability, interoperability, and throughput problems while increasing user privacy and usability.
 
 We strive to make significant contributions towards Web3 technology by promoting innovation in the blockchain and digital currency space. In our efforts to maximize innovation in the blockchain technology and Web3 space, we are excited to announce that CORE Multichain will be hosting a hackathon! Developers from across the globe will be able to participate in this hackathon to create the next best innovation in blockchain technology.
 
@@ -47,77 +47,25 @@ Developers can either choose one of the aspects or touch on multiple aspects in 
 </p>
 </details>
 
-<details><summary>Guidelines:</summary>
+### Guidelines:
 
-> CORE Multichain lives by the belief that together, members and teams of the blockchain industry can grow in a collective effort to make significant contributions to the blockchain space. We support many teams and organizations within the blockchain community and receive requests to partner and/or sponsor many projects. Unfortunately, with the high volume of requests that we receive, we cannot participate and answer every request.
+CORE Multichain is a blockchain movement that aims to solve scalability, interoperability, and throughput problems while increasing user privacy and usability.
 
-To nurture and grow our blockchain community, we host annual events such as hackathons and offer a grant program to help exciting blockchain-related project proposals go from idea to reality.
+We strive to make significant contributions towards Web3 technology by promoting innovation in the blockchain and digital currency space. In our efforts to maximize innovation in the blockchain technology and Web3 space, we are excited to announce that CORE Multichain will be hosting a hackathon! Developers from across the globe will be able to participate in this hackathon to create the next best innovation in blockchain technology.
 
-Teams need to register and submit their project proposals to participate in our hackathon. We only allow project proposals that deal with the blockchain-related aspects listed in our hackathon announcement. Once approved, teams will be notified of the following steps by a member of the CORE Multichain team.
+Since blockchain technology is in its infancy, there is a lot of room for innovation. However, we are looking for developers that can innovate in the following aspects of blockchain and cryptocurrency technology:
 
-As mentioned, teams can also apply for grants. Teams need to send grant proposals to the CORE Multichain team like the hackathon application process. Only projects under the blockchain topics listed in our hackathon announcement will be considered. The grant process is also milestone-based. This ensures that projects who send these requests are serious about the process and about contributing to the blockchain space.
+* Consensus Protocols
+* Smart Contracts
+* Sharding
+* Scalability
+* Security and Privacy
+* Data Analytics
+* Artificial Intelligence
+* Machine Learning
+* Game Theory
+* Cloud Computing
+* Edge Computing
+* 5G and Beyond
 
-We recommend the following guidelines when writing a proposal for a grant or a project for the hackathon:
-
-- List which blockchain-related aspect your hackathon project or grant project will fall under. 
-
-For more information, you can refer to the hackathon announcement to see which blockchain-related aspects are supported by the CORE Multichain team. Your project can fall under more than one of the supported blockchain aspects.
-
-* Focus your proposal around what problem in the blockchain space your project addresses.
-* Discuss how your project can contribute to the CORE Multichain ecosystem.
-* Introduce your team.
-</details>
-<details><summary>Code of Conduct:</summary>
-<p>
-
-> This event is a community hackathon to promote collaboration, innovation, and learning in the CORE Multichain and broader blockchain communities. We encourage and value the participation of each member of the community and want each member and team that participates in our hackathon to have an enjoyable experience. Therefore, all participants are expected to show respect and courtesy towards all other participants in the hackathon. All participants are required to conform to the following Code of Conduct which organizers will enforce throughout the event.
-
-## The Code
-
-The Code intends to prohibit activities including but not limited to:
-
-- Offensive comments towards others
-- Any activity that can be seen as, or regarded as, harassing, demeaning, mocking, or intimidating others, especially this behavior as it relates to characteristics such as:
-
-* Gender
-* Sexual orientation
-* Physical or mental ability
-* Age
-* Socioeconomic status
-* Ethnicity
-* Physical appearance
-* Race
-* Religion
-
-- Other prohibited behaviors include, but are not limited to:
-
-* Stalking
-* Unwanted sexual attention
-* Use of sexualized content
-
-Should any participant take part in any behavior deemed as harassment, they will be asked to stop the behavior. Failure to comply with the request to stop the behavior immediately will result in the participant's dismissal from the event. 
-
-Sponsors, mentors, volunteers, judges, organizers, CORE Multichain staff, and anyone else at the event are also subject to the anti-harassment policy. Attendees should not use sexualized content in their projects or during the event.
-
-Should a participant engage in behavior that violates this code of conduct, the hackathon organizers will take any action they deem appropriate and necessary, including warning the offender or expelling them from the event.
-
-If you are in a situation wherein you are uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately to one of the event organizers or email the CORE Multichain team. All reports will remain anonymous.
-</p>
-</details>
-<details><summary>Event Rules & Conditions</summary>
-
-* The following rules & conditions apply to this CORE Multichain hackathon ("The Event").
-
-* You are fully responsible for any damage or injury caused by you in your participation in The Event (whether the damage is to persons or property, and whether to yourself or others) and release CORE Multichain, The Event, all sponsors of The Event, The Event volunteers, The Event staff, guests of The Event and all other participants in The Event (collectively, the "Releasees") from any liability therefore.
-
- > YOU ARE AWARE THAT YOUR PARTICIPATION IN The Event IS SOLELY AT YOUR OWN RISK, AND THAT THE RELEASE HEREIN IS INTENDED TO REFLECT THAT UNDERSTANDING.
-
-* Ownership of any developments made by you during The Event, and all right, titles, and interest in those developments, including the intellectual property right therein, shall be yours. 
-
-> However, you acknowledge that during the course of the event, you may have access to products, developments, information, and other materials belonging to other participants of The Event and/or other third parties ("Third Party Materials") and that nothing in this Agreement will be deemed as a transfer of any ownership, right, title or interest in such Third Party Materials to you. Your only rights to the Third Party Materials shall be those expressly granted to you by the owner(s) of the Third Party Materials. Any APIs or other software provided to you by the sponsors of The Event are subject to the subscription terms and software licenses associated with such APIs or other software.
-
-* You acknowledge that The Event is intended to be an event where ideas are shared freely. Therefore, recognize that any sharing of information with participants of The Event, The Event sponsors, and/or other third parties during The Event is solely at your own discretion and risk. Should you wish to protect your information, it is solely your responsibility to implement the necessary confidentiality and security measures concerning the persons to whom you disclose your information. None of the Releasees shall have any obligation under this Agreement or by virtue of their participation in The Event concerning your information.
-
-* The Organizers have the unrestricted right to use your likeness, image, voice, opinions, and appearance, and also any images of your projects, developments, materials, and belongings made at or brought to The Event, captured through video, photographs, or other media during The Event for the express purpose of creating promotional material (the "Images"), which will be used in websites, promotional materials, publications and other media of any of the Organizers, whether in print or electronically (the "Materials"). The aforementioned right includes permission to copyright, use, re-use, publish, and republish images in which you may be included, intact or in part, composite or distorted in character or form, without restriction as to changes or transformations, in conjunction with your own or fictitious name, reproductions in color or otherwise, made through any and all media now or hereafter known;
-
-
+> Developers can either choose one of the aspects or touch on multiple aspects in their solution. 
