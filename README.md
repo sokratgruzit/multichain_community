@@ -178,7 +178,7 @@ For example, for this page, it's: "developer-documentation-guidelines."
 
 * content - The actual content of the page should only use "native" markdown syntax, without any html tags.
 
-:arrow_up: Back to the top :arrow_up:
+:arrow_up: [Back to the top](#document-conventions) :arrow_up:
 
 Coding Conventions - Javascript Code Conventions
 # JavaScript Code Conventions
@@ -217,4 +217,4 @@ MyComponent.js
 styles.js
 
 ```
-[Back to the top](#Javascript-Code-Conventions)
+:arrow_up: [Back to the top](#Javascript-Code-Conventions):arrow_up:
