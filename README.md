@@ -49,13 +49,13 @@ Since blockchain technology is in its infancy, there is a lot of room for innova
 
 ### Guidelines:
 
-:zap:CORE Multichain lives by the belief that together, members and teams of the blockchain industry can grow in a collective effort to make significant contributions to the blockchain space. We support many teams and organizations within the blockchain community and receive requests to partner and/or sponsor many projects. Unfortunately, with the high volume of requests that we receive, we cannot participate and answer every request.:zap:
+:zap: CORE Multichain lives by the belief that together, members and teams of the blockchain industry can grow in a collective effort to make significant contributions to the blockchain space. We support many teams and organizations within the blockchain community and receive requests to partner and/or sponsor many projects. Unfortunately, with the high volume of requests that we receive, we cannot participate and answer every request. :zap:
 
- :sparkles:To nurture and grow our blockchain community, we host annual events such as hackathons and offer a grant program to help exciting blockchain-related project proposals go from idea to reality. :sparkles:
+:sparkles: To nurture and grow our blockchain community, we host annual events such as hackathons and offer a grant program to help exciting blockchain-related project proposals go from idea to reality. :sparkles:
 
-:boom:Teams need to register and submit their project proposals to participate in our hackathon. We only allow project proposals that deal with the blockchain-related aspects listed in our hackathon announcement. Once approved, teams will be notified of the following steps by a member of the CORE Multichain team.:boom:
+:boom: Teams need to register and submit their project proposals to participate in our hackathon. We only allow project proposals that deal with the blockchain-related aspects listed in our hackathon announcement. Once approved, teams will be notified of the following steps by a member of the CORE Multichain team. :boom:
 
-:anger:As mentioned, teams can also apply for grants. Teams need to send grant proposals to the CORE Multichain team like the hackathon application process. Only projects under the blockchain topics listed in our hackathon announcement will be considered. The grant process is also milestone-based. This ensures that projects who send these requests are serious about the process and about contributing to the blockchain space.:anger:
+:star2: As mentioned, teams can also apply for grants. Teams need to send grant proposals to the CORE Multichain team like the hackathon application process. Only projects under the blockchain topics listed in our hackathon announcement will be considered. The grant process is also milestone-based. This ensures that projects who send these requests are serious about the process and about contributing to the blockchain space. :star2:
 
 #### We recommend the following guidelines when writing a proposal for a grant or a project for the hackathon:
 
@@ -74,7 +74,7 @@ Since blockchain technology is in its infancy, there is a lot of room for innova
 
 #### The Code
 
-The Code intends to prohibit activities including but not limited to:
+> The Code intends to prohibit activities including but not limited to:
 
 - Offensive comments towards others
 - Any activity that can be seen as, or regarded as, harassing, demeaning, mocking, or       intimidating others, especially this behavior as it relates to characteristics such as:
@@ -94,10 +94,10 @@ The Code intends to prohibit activities including but not limited to:
     * Unwanted sexual attention
     * Use of sexualized content
 
-Should any participant take part in any behavior deemed as harassment, they will be asked to stop the behavior. Failure to comply with the request to stop the behavior immediately will result in the participant's dismissal from the event. 
+:boom: Should any participant take part in any behavior deemed as harassment, they will be asked to stop the behavior. Failure to comply with the request to stop the behavior immediately will result in the participant's dismissal from the event. :boom:
 
-Sponsors, mentors, volunteers, judges, organizers, CORE Multichain staff, and anyone else at the event are also subject to the anti-harassment policy. Attendees should not use sexualized content in their projects or during the event.
+:sparkles: Sponsors, mentors, volunteers, judges, organizers, CORE Multichain staff, and anyone else at the event are also subject to the anti-harassment policy. Attendees should not use sexualized content in their projects or during the event. :sparkles:
 
-Should a participant engage in behavior that violates this code of conduct, the hackathon organizers will take any action they deem appropriate and necessary, including warning the offender or expelling them from the event.
+:star: Should a participant engage in behavior that violates this code of conduct, the hackathon organizers will take any action they deem appropriate and necessary, including warning the offender or expelling them from the event. :star:
 
-If you are in a situation wherein you are uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately to one of the event organizers or email the CORE Multichain team. All reports will remain anonymous.
+:sparkles: If you are in a situation wherein you are uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately to one of the event organizers or email the CORE Multichain team. All reports will remain anonymous. :sparkles:
