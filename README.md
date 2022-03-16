@@ -119,3 +119,40 @@ Since blockchain technology is in its infancy, there is a lot of room for innova
     2. You give all clearances, copyright and otherwise, for the use of your Images and waive any moral rights that you may have in the Materials in which you or your Images may appear. The rights granted to the Hackathon Organizers herein are permanent and global, and your Images may continue to be used after the completion of The Event; :collision:
 
     3. You relinquish any right that you may have to examine or approve the Materials in which you or your Images may appear or the use to which they may be applied; :collision:
+
+6. You agree that the Organizers may share your registration details, LinkedIn/Github profiles, details of your Hackathon product, and other information obtained from you in the course of, or relating to, The Event with the sponsors of The Event, and acknowledge that such sponsors of The Event may contact you during and after The Event. By agreeing to this document and/or participating in The Event, you are providing your express consent to communications by the Organizers and sponsors (including email communications, both marketing and informational) respecting the products and services of the Organizers, sponsors, and future events. :point_left:
+
+7. For valuable consideration, including permission to take part in The Event, the undersigned on behalf of him/herself, his or her personal representatives, assignees, heirs and next of kin: hereby covenants not to sue, and releases, waives, and discharges the Releasees, their owners, officers, agents, affiliates, employees, volunteers, and/or any other person or entity in any way associated with The Event, from liability for any injury to the person or property or death of the undersigned arising out of or related to use of the premises, equipment, or other facilities of the Releasees, whether caused by an act of negligence of the Releasees or otherwise; and hereby assumes full responsibility for any risk of bodily injury, death or property damage arising out of or related to their participation in The Event, whether occurring to the undersigned or to any other person or entity for whom the undersigned is responsible or with whom the undersigned is associated, and whether caused by an act of negligence of the Releasees or otherwise. The foregoing release includes, but is not limited to, any occurrences of personal injury, illness (food-borne or otherwise), and loss of belongings, whether by theft or otherwise. The undersigned further agrees that this instrument (the terms of which collectively are referred to as the Agreement) is intended to be as broad and inclusive as is permitted by the laws of the State of California and that if any portion thereof is held invalid, that portion shall be invalid only to the extent required by law. The balance shall notwithstanding, continue in full force and effect. :point_left:
+
+8. If selected as a winner of a CORE Multichain award, your acceptance of the CORE Multichain award means you agree to the following: :point_down:
+
+    1. You will not belittle CORE Multichain or its products, services, agents, representatives, directors, officers, shareholders, attorneys, vendors, employees, affiliates, business partners, assigns, or successors, or any other person acting by, through, under or in concert with any of them, with any written or oral statement. Nothing in this paragraph shall prohibit the winner from providing truthful information in response to a valid subpoena or any other legal process; however, the winning participant agrees to provide the Company sufficient notice of such to allow the Company the opportunity to oppose such subpoena or legal process before providing any information (unless expressly prohibited by applicable law).:point_left:
+
+    2. Any media created about winning the event will first be shared with the CORE Multichain team beforehand to coordinate and help you maximize the reach of your media. :point_left:
+
+    3. You agree to an interview with a writer affiliated with the team, which will feature your project on the CORE Multichain website and share your project with the greater community. :point_left:
+
+:sunny: our project is to be created during the duration of the hackathon. If your project is an improvement on an existing project, you will need to specify where your project started, and the base project ended. Projects that were submitted to a previous hackathon will not be permitted. :sunny:
+
+> Coding Conventions - Document conventions
+# Document Conventions
+
+## Rebuilding the content table
+
+Performing the following actions will require that the main content table be updated: :point_down:
+
+- Adding a file 
+- Moving a file
+- Deleting a file
+- Updating a file's main header
+
+To update the content table:
+
+* You would first need to install the dependencies by running the following command:
+
+    ``` yarn ``` :zap:
+
+
+* To rebuild, run the following: :pointer_down:
+
+    ``` yarn generate-toc ``` :zap:
